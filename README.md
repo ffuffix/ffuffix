@@ -1,1 +1,1 @@
-![Salesman](https://raw.githubusercontent.com/ffuffix/ffuffix/main/Resources/salesman.gif)
+![Salesman](Resources/salesman.gif)
