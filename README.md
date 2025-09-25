@@ -1,1 +1,4 @@
-![Salesman](Resources/salesman.gif)
+<!-- ffuffix -->
+
+<img src="Resources/ffuffix-normal-nomascot-header.svg">
+
